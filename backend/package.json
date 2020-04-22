@@ -1,0 +1,23 @@
+{
+  "name": "react-toy-instagram",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/deokgoo/react-toy-instagram",
+  "author": "deokgoo <kkddgg1001@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon --exec babel-node src/server.js"
+  },
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.0",
+    "@babel/node": "^7.8.7",
+    "@babel/preset-env": "^7.9.5",
+    "dotenv": "^8.2.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.3"
+  }
+}

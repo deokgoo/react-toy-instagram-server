@@ -1,0 +1,22 @@
+{
+  "name": "react-toy-instagram-server",
+  "version": "1.0.0",
+  "description": "Instagram clone Server with Express & Prisma",
+  "repository": "https://github.com/deokgoo/react-toy-instagram-server",
+  "author": "deok9",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon --exec babel-node src/server.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "graphql-yoga": "^1.18.3"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.11.1",
+    "@babel/node": "^7.10.5",
+    "@babel/preset-env": "^7.11.0",
+    "nodemon": "^2.0.4"
+  }
+}

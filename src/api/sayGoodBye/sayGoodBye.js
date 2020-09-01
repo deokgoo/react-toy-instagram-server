@@ -1,7 +1,6 @@
 export default {
   Query: {
-    sayGoodbye_2: () => 'bye',
-    sayGoodbye3: () => 'bye',
+    sayGoodbye_1: () => 'bye',
+    nameChange: () => 'bye',
   }
-  // test를 시작합니다.
 }

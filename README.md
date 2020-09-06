@@ -1,6 +1,8 @@
 ## Task List
 
-- [ ] Log in
+- [X] Create account
+- [X] Request Secret
+- [X] Confirm Secret (Login)
 - [ ] Like / Unlike a photo
 - [ ] Comment on a photo
 - [ ] Search by user
